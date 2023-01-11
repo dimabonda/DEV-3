@@ -80,38 +80,3 @@ button.addEventListener("click", (event) => {
     event.stopPropagation()
     showText()
 })
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    // console.log("height", span.offsetHeight)
-    //     console.log("width", span.offsetWidth)
-    //     console.log("top", span.offsetTop)
-    //     console.log("left", span.offsetLeft)
-    // span.addEventListener("click", (e) => clickSpan(e))
-    // const width = element.offsetWidth;
-//         const height = element.offsetHeight;
